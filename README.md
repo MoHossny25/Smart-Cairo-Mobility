@@ -30,17 +30,14 @@
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Data processing and Pivot Table calculations.
 * **Power Pivot / Data Modeling:** For connecting different data entities.
-* **Interactive UI:** Custom-designed navigation sidebar and<img width="1317" height="609" alt="Screenshot 2025-12-19 054601" src="https://github.com/user-attachments/assets/138394a0-aa4f-4a5d-923f-007b929b7042" />
- slicers for dynamic filtering.
+* **Interactive UI:** Custom-designed navigation sidebar and slicers for dynamic filtering.
 
 ## 📸 Preview
-<img width="1317" height="609" alt="Screenshot 2025-12-19 054601" src="https://github.com/user-attachments/assets/f6a360cb-a9cd-43be-9d59-2a72b8c4b72d" />
+<img width="1320" height="607" alt="Screenshot 2025-12-19 054538" src="https://github.com/user-attachments/assets/04e10176-212a-4e88-a150-78eddaca1bd6" />
+<img width="1317" height="609" alt="Screenshot 2025-12-19![Uploading Screenshot 2025-12-19 054538.png…]()
+ 054601" src="https://github.com/user-attachments/assets/f6a360cb-a9cd-43be-9d59-2a72b8c4b72d" />
 <img width="1317" height="607" alt="Screenshot 2025-12-19 054615" src="https://github.com/user-attachments/assets/9cb5d0ae-83d0-4fb2-8439-bc0661e99d06" />
 <img width="1314" height="606" alt="Screenshot 2025-12-19 054626" src="https://github.com/user-attachments/assets/d5bf6641-55df-4b5a-a7c0-3d75dc79e1ec" />
 <img width="1316" height="606" alt="Screenshot 2025-12-19 054644" src="https://github.com/user-attachments/assets/b29f6f26-03ed-458f-9762-487ad0e5bfbd" />
 
 
-
-## 👤 Author
-**MoHossny25**
-*Data Analysis Enthusiast*
