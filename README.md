@@ -41,4 +41,7 @@
 <img width="1316" height="606" alt="Screenshot 2025-12-19 054644" src="https://github.com/user-attachments/assets/b29f6f26-03ed-458f-9762-487ad0e5bfbd" />
 
 ## 📺 Dashboard Demo
+https://github.com/user-attachments/assets/392b8d66-f804-4903-9140-55ea6434cfd5
+
+
 
