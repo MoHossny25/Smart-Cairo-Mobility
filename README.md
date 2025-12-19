@@ -40,4 +40,5 @@
 <img width="1314" height="606" alt="Screenshot 2025-12-19 054626" src="https://github.com/user-attachments/assets/d5bf6641-55df-4b5a-a7c0-3d75dc79e1ec" />
 <img width="1316" height="606" alt="Screenshot 2025-12-19 054644" src="https://github.com/user-attachments/assets/b29f6f26-03ed-458f-9762-487ad0e5bfbd" />
 
+## 📺 Dashboard Demo
 
